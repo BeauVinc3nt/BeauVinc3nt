@@ -28,6 +28,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
 </p>
