@@ -18,5 +18,5 @@
 
 // Adding GitHub activity API
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beauvinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="beauvinc3nt's activity graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Beauvinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="beauvinc3nt's activity graph" />
 </p>
