@@ -6,7 +6,8 @@
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>
-<br> <!-- Added spacing -->
+
+<br> <!-- Splitting up section with space -->
 
 <!-- Connect With Me -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
@@ -15,11 +16,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" />
   </a>
 </p>
-<br> <!-- Added spacing -->
+
+<br> <!-- Splitting up section with space -->
 
 <!-- Languages and Tools -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
-<p align="left" style="margin-bottom: 20px;"> <!-- Added bottom margin -->
+<p align="left" style="margin: 20px;">           <!-- style="margin-bottom: 20px;" -->
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
   </a> 
@@ -48,7 +51,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-<br> <!-- Added spacing -->
+
+<br> <!-- Splitting up section with space -->
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
@@ -57,13 +61,16 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
   </a>
 </p>
-<br> <!-- Added spacing -->
+
+<br> <!-- Splitting up section with space -->
 
 <!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
 </p>
+
+<!-- BEAU'S ACTIVITY GRAPH (API ISSUES - NOT WORKING)-->
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="BeauVinc3nt's activity graph" />
 </p> -->
