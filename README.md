@@ -1,28 +1,67 @@
-<h1 align="center">Hi 👋, I'm Beau</h1>
-<h3 align="center">Software Developer</h3>
+<!-- Add "Montserrat Semibold 600" styling -->
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi 👋, I'm Beau</h1>
+<h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/beauvincent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
+  <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Connect With Me -->
+<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/beauvincent" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/beauvincent"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" /></a></p><br><br>
+<!-- Languages and Tools -->
+<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
 
-<h3 align="left">Beau's activity: </h3>
+<!-- Support Section -->
+<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/beauvincent"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
+</a></p>
+<br><br>
 
-<!-- Adding GitHub activity API -->
+<!-- Activity Graph -->
+<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="BeauVinc3nt's activity graph" />
 </p>
 
-<!-- ALTERNATIVE ACTIVITY TRACKER IF API ABOVE DOESN'T WORK -->
-<h3 align="left">GitHub Stats:</h3>
+<!-- GitHub Stats -->
+<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
 </p>
