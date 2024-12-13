@@ -13,3 +13,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/beauvincent"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" /></a></p><br><br>
+
+<h3 align="left">Beau's activity: </h3>
+
+// Adding GitHub activity API
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beauvinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="beauvinc3nt's activity graph" />
+</p>
