@@ -7,25 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>
 
-<!-- Connect with me Section with Border Effect -->
-<div style="background-image: linear-gradient(to right bottom, #e300ff, #ff00aa, #ff5956, #ffb900, #fffe00); 
-            border: none; 
-            font-size: 1.2em; 
-            border-radius: 0; 
-            padding: 10px; 
-            position: relative; 
-            box-shadow: -25px -10px 30px -5px rgba(225, 0, 255, 0.7), 
-                        25px -10px 30px -5px rgba(255, 0, 212, 0.7), 
-                        25px 10px 30px -5px rgba(255, 174, 0, 0.7), 
-                        -25px 10px 30px -5px rgba(255, 230, 0, 0.7);">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/beauvincent" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
 <!-- Connect With Me -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
 <p align="left">
