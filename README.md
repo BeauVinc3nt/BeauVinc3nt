@@ -18,5 +18,8 @@
 
 // Adding GitHub activity API
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Beauvinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="beauvinc3nt's activity graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="beauvinc3nt's activity graph" />
 </p>
+
+// ALTERNATIVE ACTIVITY TRACKER IF API ABOVE DOESN'T WORK:
+// ![Beauvinc3nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=beauvinc3nt&show_icons=true&theme=radical)
