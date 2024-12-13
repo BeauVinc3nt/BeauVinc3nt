@@ -54,18 +54,17 @@
 </a></p>
 <br><br>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="BeauVinc3nt's activity graph" />
-</p>
 
-<!-- GitHub Stats -->
-<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="BeauVinc3nt's activity graph" />
+</p> -->
 
+<!-- Creating 'top languages section using API'-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
 </p>
