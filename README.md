@@ -9,17 +9,6 @@
   <code> Full Stack Software Developer </code>
 </h3>
 
-<!-- My activity graph to track commits & data-->
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
-</p>
-
-<!-- Creating 'top languages section using API'-->
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-
 <!-- CSS styling 
 <style>
   /* Typing animation 
@@ -115,6 +104,17 @@
 </p>
 
 <br><br><br><!-- Splitting up section with space -->
+
+
+<!-- My activity graph to track commits & data-->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
+</p>
+
+<!-- Creating 'top languages section using API'-->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 
 <!-- BEAU'S ACTIVITY GRAPH (API ISSUES - NOT WORKING)-->
