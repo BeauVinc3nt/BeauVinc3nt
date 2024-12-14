@@ -18,8 +18,7 @@
 <!-- Main content container with grid layout -->
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin: 20px 0;">
-  
-  <!-- Left column -->
+<br><br>
   
     
 
