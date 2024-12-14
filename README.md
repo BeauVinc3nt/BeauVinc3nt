@@ -81,9 +81,15 @@
   </p>
 </div>
 
+<!-- Adding drop down section for my personal hobbies-->
 <details>
-  <summary><h3> Beau's Journey Software Development 📜</h3></summary>
-  dasa
+  <summary><h3> Beau's additional hobbies 📜</h3></summary>
+  - Chess♟️
+  - Problem Solving 🧠
+  - Exercising 🏋🏻‍♂️
+  - Health and Wellbeing 🍎
+  - Videography 📷
+  
 </details>
   
 <!-- Adding Responsive CSS by wrapping in a div func -> cannot directly use CSS in ReadMe file. -->
