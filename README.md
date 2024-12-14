@@ -1,6 +1,50 @@
-<!-- Add "Montserrat Semibold 600" styling -->
+<!-- Add "Montserrat Semibold 600" styling 
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
 <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Software Developer</h3>
+-->
+
+<!-- Add "Montserrat Semibold 600" styling -->
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
+<!-- Animated typing effect -->
+<h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
+  <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">Software Developer</span>
+</h3>
+<style>
+  /* Typing animation */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
+  
+  .typing {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: 
+      typing 3.5s steps(30, end) infinite,
+      blink-caret .75s step-end infinite;
+  }
+</style>
+<!-- Profile Views -->
+<p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
+  <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
+</p>
+<!-- Main content container with grid layout -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+  <!-- Left column -->
+  <div>
+    <!-- Connect With Me -->
+    <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+    <p style="margin-bottom: 30px;">
+      <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank" style="margin-right: 15px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" />
+      </a>
+    </p>
+
 
 <!-- Profile Views -->
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
