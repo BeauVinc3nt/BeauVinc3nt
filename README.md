@@ -11,7 +11,7 @@
 
 <!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
 <h3 align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
 </p>
 
