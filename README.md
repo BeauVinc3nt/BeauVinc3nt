@@ -19,6 +19,7 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin: 20px 0;">
 <br>
+<hr>
 
 <!-- Connect With Me -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
