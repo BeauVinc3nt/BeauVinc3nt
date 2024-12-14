@@ -1,10 +1,12 @@
 <!-- Add "Montserrat Semibold 600" styling -->
-<h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau Vincent 🚀>
+<h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
+  Beau Vincent 🚀
+</h1>
 
 
 <!-- Animated typing effect -->
 <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800; display: inline-block;">
-  Full Stack Software Developer 🚀
+  <code> Full Stack Software Developer </code>
 </h3>
 
 
