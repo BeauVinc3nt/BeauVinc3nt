@@ -13,7 +13,7 @@
   <code> Full Stack Software Developer </code>
 </h3>
 
-<img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
 
 <br>
 
