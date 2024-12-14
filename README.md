@@ -64,30 +64,8 @@
 <br> <!-- Splitting up section with space -->
 
 <!-- Languages and Tools -->
-<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
-<p style="display: grid; grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); gap: 15px; margin-bottom: 30px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- ... (remaining tool icons with the same structure) ... -->
-</p>
-
-<!-- Support Section -->
-<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
-<p style="margin-bottom: 30px;">
-  <a href="https://www.buymeacoffee.com/beauvincent">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
-  </a>
-</p>
-
-
-
-<!-- Languages and Tools 
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
-<p align="left" style="mmargin-bottom: 20px;">          <!-- Wrapping languages section with a margin bottom + spacing in between logos
+<p align="left" style="mmargin-bottom: 20px;">          <!-- Wrapping languages section with a margin bottom + spacing in between logos -->
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" style="margin-right: 20px"/>
@@ -116,7 +94,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-</p> -->
+</p> 
 
 <br> <!-- Splitting up section with space -->
 
