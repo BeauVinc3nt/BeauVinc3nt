@@ -13,6 +13,8 @@
   <code> Full Stack Software Developer </code>
 </h3>
 
+<br>
+
 <!-- Main content container -->
 <div style="margin: 20px 0;">
 
