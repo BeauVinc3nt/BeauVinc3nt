@@ -91,7 +91,7 @@
 </p> 
 
 
-<br><br>
+<br><br><br>
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
@@ -101,8 +101,8 @@
   </a>
 </p>
 
-<br> <!-- Splitting up section with space -->
-#
+<br><br><br><!-- Splitting up section with space -->
+
 
 <!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
