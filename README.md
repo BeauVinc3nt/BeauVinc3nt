@@ -18,11 +18,7 @@
 <!-- Main content container with grid layout -->
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin: 20px 0;">
-<br><br>
-  
-    
-
-
+<br>
 
 <!-- Connect With Me -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
@@ -31,6 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="44" width="40" />
   </a>
 </p>
+<br><br>
 
 
 <!-- Languages and Tools -->
@@ -66,8 +63,7 @@
   </a> 
 </p> 
 
-
-
+<br><br>
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
@@ -76,9 +72,6 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
   </a>
 </p>
-
-
-
 
 <!-- My activity graph to track commits & data-->
 <p align="right">
