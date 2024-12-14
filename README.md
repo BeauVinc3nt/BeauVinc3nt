@@ -1,9 +1,11 @@
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
+
 <!-- Animated typing effect -->
 <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
   <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">Software Developer</span>
 </h3>
+
 <style>
   /* Typing animation */
   @keyframes typing {
@@ -29,10 +31,14 @@
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>
+
 <!-- Main content container with grid layout -->
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+  
   <!-- Left column -->
   <div>
+    
     <!-- Connect With Me -->
     <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
     <p style="margin-bottom: 30px;">
