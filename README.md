@@ -82,14 +82,15 @@
 </div>
 
 <!-- Adding drop down section for my personal hobbies-->
-<details style="font-family: 'Montserrat', sans-serif;>
+<details>
   <summary><h3> Beau's additional hobbies 📜</h3></summary>
-  <div>- Chess♟️</div>
-  <div>- Problem Solving 🧠</div>
-  <div>- Exercising 🏋🏻‍♂️</div>
-  <div>- Health and Wellbeing 🍎</div>
-  <div>- Videography 📷</div>
-  
+  <div style="font-family: 'Montserrat';">
+    <div>- Chess♟️</div>
+    <div>- Problem Solving 🧠</div>
+    <div>- Exercising 🏋🏻‍♂️</div>
+    <div>- Health and Wellbeing 🍎</div>
+    <div>- Videography 📷</div>
+  </div>
 </details>
   
 <!-- Adding Responsive CSS by wrapping in a div func -> cannot directly use CSS in ReadMe file. -->
