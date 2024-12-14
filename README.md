@@ -9,6 +9,17 @@
   <code> Full Stack Software Developer </code>
 </h3>
 
+<!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
+<h3 align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
+</p>
+
+<!-- Creating 'top languages section using API'-->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
 
 <!-- CSS styling 
 <style>
@@ -107,18 +118,8 @@
 <br><br><br><!-- Splitting up section with space -->
 
 
-<!-- Activity Graph - NOT WORKING SO COMMENTED OUT & REPLACED: -->
-<h3 align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau's activity:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
-</p>
-
 <!-- BEAU'S ACTIVITY GRAPH (API ISSUES - NOT WORKING)-->
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BeauVinc3nt&theme=react-dark&bg_color=20232a&hide_border=true" alt="BeauVinc3nt's activity graph" />
 </p> -->
 
-<!-- Creating 'top languages section using API'-->
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
-</p>
