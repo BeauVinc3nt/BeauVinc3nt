@@ -91,7 +91,7 @@
 </p> 
 
 
-<br>
+<br><br>
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
