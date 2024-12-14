@@ -44,7 +44,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
   
   <!-- Left column -->
-  <div>
+  
     
 
 
