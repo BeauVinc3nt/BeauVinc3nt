@@ -56,6 +56,8 @@
 
 <br> <!-- Splitting up section with space -->
 
+###
+
 <!-- Languages and Tools -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
 <p style="margin-bottom: 20px;">          <!--  align="left"     Wrapping languages section with a margin bottom + spacing in between logos -->
@@ -90,6 +92,7 @@
 </p> 
 
 <br> <!-- Splitting up section with space -->
+###
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
