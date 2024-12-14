@@ -24,7 +24,7 @@
 <p align="left" style="mmargin-bottom: 20px;">          <!-- Wrapping languages section with a margin bottom + spacing in between logos-->
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" style="margin-right: 20px"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
