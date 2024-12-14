@@ -55,7 +55,7 @@
 </p>
 
 <br>
-#
+
 
 <!-- Languages and Tools -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
