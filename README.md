@@ -3,7 +3,7 @@
 
 
 <!-- Animated typing effect -->
-<h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
+<h3 align="left" style="font-family: 'Montserrat'; font-weight: 600; display: inline-block;">
   Full Stack Software Developer 🚀
 </h3>
 
