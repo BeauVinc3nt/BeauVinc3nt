@@ -58,7 +58,7 @@
 
 <!-- Languages and Tools -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
-<p align="left" style="margin-bottom: 20px;">          <!-- Wrapping languages section with a margin bottom + spacing in between logos -->
+<p style="margin-bottom: 20px;">          <!-- Wrapping languages section with a margin bottom + spacing in between logos -->
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="60" height="60" style="padding: 30px;"/>
