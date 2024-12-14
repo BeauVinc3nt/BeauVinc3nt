@@ -24,7 +24,6 @@
     
 
 
-<br> <!-- Splitting up section with space -->
 
 <!-- Connect With Me -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
@@ -69,7 +68,7 @@
 </p> 
 
 
-<br><br><br>
+
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
@@ -79,7 +78,7 @@
   </a>
 </p>
 
-<br><br><br><!-- Splitting up section with space -->
+
 
 
 <!-- My activity graph to track commits & data-->
