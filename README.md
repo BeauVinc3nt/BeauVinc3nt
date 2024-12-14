@@ -1,5 +1,5 @@
 <!-- Add "Montserrat Semibold 600" styling -->
-<h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
+<h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Beau Vincent/h1>
 
 
 <!-- Animated typing effect -->
