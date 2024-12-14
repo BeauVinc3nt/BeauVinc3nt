@@ -84,11 +84,11 @@
 <!-- Adding drop down section for my personal hobbies-->
 <details>
   <summary><h3> Beau's additional hobbies 📜</h3></summary>
-  - Chess♟️
-  - Problem Solving 🧠
-  - Exercising 🏋🏻‍♂️
-  - Health and Wellbeing 🍎
-  - Videography 📷
+  <div>- Chess♟️</div>
+  <div>- Problem Solving 🧠</div>
+  <div>- Exercising 🏋🏻‍♂️</div>
+  <div>- Health and Wellbeing 🍎</div>
+  <div>- Videography 📷</div>
   
 </details>
   
