@@ -13,6 +13,8 @@
   <code> Full Stack Software Developer </code>
 </h3>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Vcdbi5o470i9FACaZO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CodeRower-coderower-Vcdbi5o470i9FACaZO">via GIPHY</a></p>
+
 <img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
 
 <br>
