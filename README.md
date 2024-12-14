@@ -4,34 +4,10 @@
 </h1>
 
 
-<!-- Animated typing effect -->
+<!-- Beau's expertise title -->
 <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800; display: inline-block;">
   <code> Full Stack Software Developer </code>
 </h3>
-
-<!-- CSS styling 
-<style>
-  /* Typing animation 
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-  
-  .typing {
-    overflow: hidden;
-    white-space: nowrap;
-    animation: 
-      typing 3.5s steps(30, end) infinite,
-      blink-caret .75s step-end infinite;
-  }
-  */
-</style> -->
-
 
 <!-- Profile Views 
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
@@ -41,7 +17,7 @@
 
 <!-- Main content container with grid layout -->
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin: 20px 0;">
   
   <!-- Left column -->
   
