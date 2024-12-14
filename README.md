@@ -81,6 +81,11 @@
   </p>
 </div>
 
+<details>
+  <summary><h3> Beau's Journey Software Development 📜</h3></summary>
+  dasa
+</details>
+  
 <!-- Adding Responsive CSS by wrapping in a div func -> cannot directly use CSS in ReadMe file. -->
 <div style=
   @media (max-width: 768px) {
