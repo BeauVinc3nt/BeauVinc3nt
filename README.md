@@ -1,13 +1,24 @@
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
-#
+
 
 <!-- Animated typing effect -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
   <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;"> Full Stack Software Developer </span>
 </h3>
 
-<div class="terminal-loader">
+<div class="terminal-loader" 
+  style = width: 100%;
+  max-width: 400px;
+  height: 200px;
+  background: #1c1c1c;
+  border: 1px solid #ffffff3e;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 20px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4)
+  >
+  
   <div class="terminal-header">
     <div class="terminal-title">Status</div>
     <div class="terminal-controls">
