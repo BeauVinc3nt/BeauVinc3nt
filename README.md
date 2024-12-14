@@ -6,7 +6,7 @@
   <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">Full Stack Software Developer </span>
 </h3>
 
-<!-- CSS styling -->
+<!-- CSS styling 
 <style>
   /* Typing animation 
   @keyframes typing {
@@ -27,7 +27,7 @@
       blink-caret .75s step-end infinite;
   }
   */
-</style>
+</style> -->
 
 
 <!-- Profile Views -->
