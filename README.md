@@ -1,6 +1,6 @@
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Hi, I'm Beau 👋</h1>
-
+<br>
 <!-- Animated typing effect -->
 <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
   <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;"> Full Stack Software Developer </span>
@@ -54,6 +54,7 @@
   </a>
 </p>
 
+<br>
 #
 
 <!-- Languages and Tools -->
@@ -90,6 +91,7 @@
 </p> 
 
 #
+<br>
 
 <!-- Support Section -->
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
