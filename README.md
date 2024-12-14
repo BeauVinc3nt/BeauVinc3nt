@@ -82,7 +82,7 @@
 </div>
 
 <!-- Adding drop down section for my personal hobbies-->
-<details>
+<details style="font-family: 'Montserrat', sans-serif;>
   <summary><h3> Beau's additional hobbies 📜</h3></summary>
   <div>- Chess♟️</div>
   <div>- Problem Solving 🧠</div>
