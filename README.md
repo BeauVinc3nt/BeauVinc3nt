@@ -74,12 +74,12 @@
 </p>
 
 <!-- My activity graph to track commits & data-->
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical" alt="BeauVinc3nt's GitHub stats" />
 </p>
 
 <!-- Creating 'top languages section using API'-->
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
