@@ -65,7 +65,7 @@
   </p>
 
 </div>
-
+<br><br>
 <!-- Separate GitHub Stats Section -->
 <div style="margin: 20px 0;">
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats:</h3>
@@ -80,7 +80,7 @@
 </div>
 
 <!-- Responsive CSS -->
-<style>
+<div style=
   @media (max-width: 768px) {
     div[style*="display: flex"] a {
       width: 30%; /* Ensures 3 icons per row on smaller screens */
@@ -88,4 +88,4 @@
       margin: 0 auto; /* Centers icons horizontally */
     }
   }
-</style>
+</div>
