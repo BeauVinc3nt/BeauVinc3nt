@@ -3,11 +3,12 @@
 
 <!-- Animated typing effect -->
 <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600; display: inline-block;">
-  <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">Software Developer</span>
+  <span class="typing" style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">Full Stack Software Developer </span>
 </h3>
 
+<!-- CSS styling -->
 <style>
-  /* Typing animation */
+  /* Typing animation 
   @keyframes typing {
     from { width: 0 }
     to { width: 100% }
@@ -25,7 +26,9 @@
       typing 3.5s steps(30, end) infinite,
       blink-caret .75s step-end infinite;
   }
+  */
 </style>
+
 
 <!-- Profile Views -->
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
