@@ -50,7 +50,7 @@
 <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
 <p align="left" style="margin-bottom: 20px;"> <!-- Added bottom margin -->
   <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
   </a>
 </p>
 
