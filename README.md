@@ -30,10 +30,11 @@
 </style> -->
 
 
-<!-- Profile Views -->
+<!-- Profile Views 
 <p align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>
+-->
 
 <!-- Main content container with grid layout -->
 
