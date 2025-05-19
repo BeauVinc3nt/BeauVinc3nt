@@ -34,7 +34,7 @@
     &nbsp;
     <!--TechBeau.co.uk icon + link -->
      <a href="https://techbeau.co.uk/" target="_blank">
-    <img src="TechBeauLogo.png" alt="Visit my portfolio" height="60" />
+    <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="44" width="40"/>
   </a>
   </p>
 
