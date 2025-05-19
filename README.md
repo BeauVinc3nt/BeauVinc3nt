@@ -31,6 +31,7 @@
     <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="44" width="40" />
     </a>
+    &nbsp;
     <!--TechBeau.co.uk icon + link -->
      <a href="https://techbeau.co.uk/" target="_blank">
     <img src="TechBeauLogo.png" alt="Visit my portfolio" height="60" />
