@@ -29,12 +29,12 @@
   <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
 <!-- LinkedIn icon + link -->
     <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="44" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
     </a>
     &nbsp;
     <!--TechBeau.co.uk icon + link -->
      <a href="https://techbeau.co.uk/" target="_blank">
-    <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="44" width="40"/>
+    <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
   </a>
   </p>
 
