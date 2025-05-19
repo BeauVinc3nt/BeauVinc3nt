@@ -27,9 +27,14 @@
   <!-- Connect With Me -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
   <p align="left" style="margin-bottom: 20px;">
+<!-- LinkedIn icon + link -->
     <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="44" width="40" />
     </a>
+    <!--TechBeau.co.uk icon + link -->
+     <a href="https://techbeau.co.uk/" target="_blank">
+    <img src="" alt="Visit my portfolio" height="60" />
+  </a>
   </p>
 
   <!-- Languages and Tools -->
