@@ -33,7 +33,7 @@
   </div>
 
   <!-- Right side: Spinning hacker gif -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0;" align="right">
     <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
   </div>
 </div>
