@@ -77,7 +77,7 @@
 <br><br>
 <!-- Separate GitHub Stats Section -->
 <div style="margin: 20px 0;">
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats:</h3>
+  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats (public repos):</h3>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical&cache_seconds=1800" alt="BeauVinc3nt's GitHub stats" />  <!-- Cache seconds ensures the values are updated frequently-->
   </p>
