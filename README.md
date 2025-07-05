@@ -13,7 +13,7 @@
   <!-- Left side: Title and Connect Info -->
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
-    <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
+    <h3 align="center" style="font-family: 'Montserrat'; font-weight: 800;">
       <code> Full Stack Software Developer </code>
     </h3>
 
