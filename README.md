@@ -1,4 +1,4 @@
-<div style="background-color: white; padding: 20px; border-radius: 10px;">
+<body style="background-color: white;">
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
   Beau Vincent 🚀
@@ -119,4 +119,4 @@
     }
   }
 </div>
-</div>
+</body>
