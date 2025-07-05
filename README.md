@@ -1,3 +1,4 @@
+<div style="background-color: white; padding: 20px; border-radius: 10px;">
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
   Beau Vincent 🚀
@@ -117,4 +118,5 @@
       margin: 0 auto; /* Centers icons horizontally */
     }
   }
+</div>
 </div>
