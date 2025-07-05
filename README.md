@@ -9,14 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>  -->
 
-<img src="/home/beauvincent/GitHub contents for readME/Spinning ball.gif">
-
 <!-- Beau's expertise title -->
 <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800; display: inline-block;">
   <code> Full Stack Software Developer </code>
 </h3>
 
 <!-- Spinning hacker gif -->
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
 
 
