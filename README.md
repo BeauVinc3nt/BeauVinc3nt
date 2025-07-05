@@ -39,6 +39,9 @@
 
   <!-- Languages and Tools -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
+  
+  <i class="devicon-javascript-plain colored"></i>
+          
   <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" alt="Bootstrap" width="55" height="55" />
