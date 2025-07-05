@@ -3,36 +3,39 @@
   Beau Vincent 🚀
 </h1>
 
-<!-- Profile views tab -->
+<!-- Profile views tab 
 <p align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
-</p>
+</p>  -->
 
-<!-- Header Section: Title and Connect Info -->
-<div style="margin-bottom: 40px;">
-  <!-- Beau's expertise title -->
-  <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
-    <code> Full Stack Software Developer </code>
-  </h3>
+<!-- Header Section: Title and Connect Info in Flex Row -->
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px; gap: 20px;">
+  <!-- Left side: Title and Connect Info -->
+  <div style="flex: 1;">
+    <!-- Beau's expertise title -->
+    <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
+      <code> Full Stack Software Developer </code>
+    </h3>
 
-  <!-- Connect With Me -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
-  <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
-    <!-- LinkedIn icon + link -->
-    <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
-    </a>
-    &nbsp;
-    <!--TechBeau.co.uk icon + link -->
-    <a href="https://techbeau.co.uk/" target="_blank">
-      <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
-    </a>
-  </p>
-</div>
+    <!-- Connect With Me -->
+    <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+    <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
+      <!-- LinkedIn icon + link -->
+      <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
+      </a>
+      &nbsp;
+      <!--TechBeau.co.uk icon + link -->
+      <a href="https://techbeau.co.uk/" target="_blank">
+        <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
+      </a>
+    </p>
+  </div>
 
-<!-- Spinning hacker gif - now positioned to not interfere with layout -->
-<div align="right" style="margin: 20px 0;">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
+  <!-- Right side: Spinning hacker gif -->
+  <div style="flex-shrink: 0;">
+    <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
+  </div>
 </div>
 
 <!-- Main content container -->
