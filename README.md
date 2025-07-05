@@ -3,10 +3,10 @@
   Beau Vincent 🚀
 </h1>
 
-<!-- Profile views tab 
+<!-- Profile views tab -->
 <p align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;"> 
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
-</p>  -->
+</p>
 
 <!-- Header Section: Title and Connect Info -->
 <div style="margin-bottom: 40px;">
