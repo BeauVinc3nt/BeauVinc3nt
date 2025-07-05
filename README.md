@@ -1,4 +1,3 @@
-
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
   Beau Vincent 🚀
@@ -9,58 +8,58 @@
   <img src="https://komarev.com/ghpvc/?username=beauvinc3nt&label=Profile%20views&color=0e75b6&style=flat" alt="beauvinc3nt" /> 
 </p>  -->
 
-<!-- Beau's expertise title -->
-<div>
-<h3 align="left" style="font-family: 'Montserrat'; font-weight: 800; display: inline-block;">
-  <code> Full Stack Software Developer </code>
-</h3>
-
-<!-- Spinning hacker gif -->
-<img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
-</div>
-
-<br>
-
-<!-- Main content container -->
-<div style="margin: 20px 0;">
+<!-- Header Section: Title and Connect Info -->
+<div style="margin-bottom: 40px;">
+  <!-- Beau's expertise title -->
+  <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
+    <code> Full Stack Software Developer </code>
+  </h3>
 
   <!-- Connect With Me -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
   <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
-<!-- LinkedIn icon + link -->
+    <!-- LinkedIn icon + link -->
     <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
     </a>
     &nbsp;
     <!--TechBeau.co.uk icon + link -->
-     <a href="https://techbeau.co.uk/" target="_blank">
-    <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
-  </a>
+    <a href="https://techbeau.co.uk/" target="_blank">
+      <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
+    </a>
   </p>
+</div>
 
+<!-- Spinning hacker gif - now positioned to not interfere with layout -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
+</div>
+
+<!-- Main content container -->
+<div style="margin: 20px 0;">
   <!-- Languages and Tools -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
   <!-- Wrapping elements to fit page -->         
   <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: flex-start; margin-bottom: 30px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55"  style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" style="margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55"  style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>   
   </div>
 
   <!-- Support Section -->
@@ -108,4 +107,3 @@
     }
   }
 </div>
-
