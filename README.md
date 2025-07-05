@@ -15,8 +15,7 @@
 </h3>
 
 <!-- Spinning hacker gif -->
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="100" height="100">
 
 
 <br>
