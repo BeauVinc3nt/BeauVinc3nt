@@ -1,4 +1,4 @@
-<body style="background-color: white;">
+
 <!-- Add "Montserrat Semibold 600" styling -->
 <h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
   Beau Vincent 🚀
@@ -71,8 +71,10 @@
     </a> 
   </div>
 
+<div style="background-color: white;">
   <h3> Backend technologies: </h3>
   <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55" /> </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="55" height="55" /> </a> </div>
+  </div>
 
   <!-- Support Section -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
@@ -119,4 +121,4 @@
     }
   }
 </div>
-</body>
+
