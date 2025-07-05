@@ -31,7 +31,7 @@
 </div>
 
 <!-- Spinning hacker gif - now positioned to not interfere with layout -->
-<div align="center" style="margin: 20px 0;">
+<div align="right" style="margin: 20px 0;">
   <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
 </div>
 
