@@ -39,30 +39,27 @@
 
   <!-- Languages and Tools -->
   <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
-  
- 
-
-          
-  <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsgit/git-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsfirebase/firebase-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="55" height="55" />   
+  <!-- Wrapping elements to fit page -->         
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: flex-start; margin-bottom: 30px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsgit/git-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55"  style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsfirebase/firebase-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" style="margin: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="55" height="55" style="margin: 5px;"/>   
   </div>
 
 
