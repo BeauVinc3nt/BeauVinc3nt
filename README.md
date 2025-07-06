@@ -17,8 +17,8 @@
       <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
-    <!-- Connect With Me -->
-    <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600; text-align: center;">Connect with me:</h3>
+  <!-- Connect With Me -->
+  <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600; text-align: center;">Connect with me:</h3>
     <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
       <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
