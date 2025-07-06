@@ -13,9 +13,9 @@
   <!-- Left side: Title and Connect Info -->
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
-    <h1 style="font-family: 'Montserrat'; font-weight: 800;" align="center">
+    <h2 style="font-family: 'Montserrat'; font-weight: 800;" align="center">
       <code> Full Stack Software Developer 👩🏻‍💻</code>
-    </h1>
+    </h2>
 
   <!-- Connect With Me -->
   <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
