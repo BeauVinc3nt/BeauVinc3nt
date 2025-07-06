@@ -97,8 +97,8 @@
   </div>
 
   <!-- Support Section -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
-  <p align="left" style="margin-bottom: 20px;">
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
+  <p align="center" style="margin-bottom: 20px;">
     <a href="https://www.buymeacoffee.com/beauvincent"> 
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
     </a>
@@ -108,8 +108,8 @@
 <br><br>
 <!-- Separate GitHub Stats Section -->
 <div style="margin: 20px 0;">
-  <h3 align="right" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats 📊</h3>
-  <p align="right">
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats 📊</h3>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical&cache_seconds=1800" alt="BeauVinc3nt's GitHub stats" />  <!-- Cache seconds ensures the values are updated frequently-->
   </p>
 
