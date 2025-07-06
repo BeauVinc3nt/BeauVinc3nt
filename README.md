@@ -71,6 +71,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin: 5px;"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" style="margin: 5px;"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" style="margin: 5px;"/>
           </div>
         </td>
@@ -78,7 +79,6 @@
           <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" style="margin: 5px;"/>
           </div>
         </td>
         <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
@@ -95,7 +95,7 @@
   </table>
 
   <!-- Support Section -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support:</h3>
+  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
   <p style="margin-bottom: 20px;">
     <a href="https://www.buymeacoffee.com/beauvincent"> 
       <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
@@ -106,7 +106,7 @@
 <br><br>
 <!-- Separate GitHub Stats Section -->
 <div style="margin: 20px 0;">
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats:</h3>
+  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats 📊</h3>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical&cache_seconds=1800" alt="BeauVinc3nt's GitHub stats" />  <!-- Cache seconds ensures the values are updated frequently-->
   </p>
@@ -119,7 +119,7 @@
 
 <!-- Adding drop down section for my personal hobbies-->
 <details>
-  <summary><h3> Beau's additional hobbies 📜</h3></summary>
+  <summary><h3> Beau's additional hobbies ➕</h3></summary>
   <div style="font-family: 'Montserrat';">
     <div>- Chess♟️</div>
     <div>- Problem Solving 🧠</div>
