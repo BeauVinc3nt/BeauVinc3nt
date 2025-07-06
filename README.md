@@ -17,7 +17,7 @@
       <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
-    <!-- Connect With Me -->
+  <!-- Connect With Me -->
   <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
   <p align="center" style="margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
