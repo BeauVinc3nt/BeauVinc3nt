@@ -18,19 +18,19 @@
     </h3>
 
     <!-- Connect With Me -->
-    <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
-    <p align="center" style="margin-bottom: 20px;">
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+  <p align="center" style="margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
-      <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55"/>
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <!--TechBeau.co.uk icon + link -->
-      <a href="https://techbeau.co.uk/" target="_blank">
-        <img src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
-      </a>
-    </p>
-  </div>
+    <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <!--TechBeau.co.uk icon + link -->
+    <a href="https://techbeau.co.uk/" target="_blank">
+      <img src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
+    </a>
+  </p>
+</div>
 
   <!-- Right side: Spinning hacker gif -->
   <div align="center" style="flex-shrink: 0;">
