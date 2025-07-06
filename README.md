@@ -1,5 +1,5 @@
 <!-- Add "Montserrat Semibold 600" styling -->
-<h1 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
   Beau Vincent 🚀
 </h1>
 
@@ -14,11 +14,11 @@
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
     <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
-      <code> Full Stack Software Developer </code>
+      <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
   <!-- Connect With Me -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
     <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
       <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
@@ -33,7 +33,7 @@
   </div>
 
   <!-- Right side: Spinning hacker gif -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0;" align="center">
     <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
   </div>
 </div>
