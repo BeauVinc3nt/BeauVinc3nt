@@ -9,7 +9,7 @@
 </p>  
 
 <!-- Header Section: Title and Connect Info in Flex Row -->
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px; gap: 20px;">
+<div style="display: flex; align: center; justify-content: space-between; margin-bottom: 40px; gap: 20px;">
   <!-- Left side: Title and Connect Info -->
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
