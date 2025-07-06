@@ -13,16 +13,16 @@
   <!-- Left side: Title and Connect Info -->
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
-    <h3 align="left" style="font-family: 'Montserrat'; font-weight: 800;">
+    <h3 style="font-family: 'Montserrat'; font-weight: 800;">
       <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
   <!-- Connect With Me -->
-  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+  <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
     <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
       <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" />
       </a>
       &nbsp;
       <!--TechBeau.co.uk icon + link -->
@@ -33,7 +33,7 @@
   </div>
 
   <!-- Right side: Spinning hacker gif -->
-  <div style="flex-shrink: 0;" align="center">
+  <div style="flex-shrink: 0;">
     <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
   </div>
 </div>
