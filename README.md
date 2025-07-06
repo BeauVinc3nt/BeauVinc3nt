@@ -34,14 +34,14 @@
 
   <!-- Right side: Spinning hacker gif -->
   <div style="flex-shrink: 0;">
-    <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
+    <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300" align="center">
   </div>
 </div>
 
 <!-- Main content container -->
 <div style="margin: 20px 0;">
   <!-- Languages and Tools -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
+  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;" align="center">Languages and Tools:</h3>
   
   <!-- Skills Table -->
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
