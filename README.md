@@ -17,24 +17,24 @@
       <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
-  <!-- Connect With Me -->
-  <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600; text-align: center;">Connect with me:</h3>
-    <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 20px;">
+    <!-- Connect With Me -->
+    <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Connect with me:</h3>
+    <p align="center" style="margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
       <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" align="center"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55"/>
       </a>
-      &nbsp;
+      &nbsp;&nbsp;&nbsp;
       <!--TechBeau.co.uk icon + link -->
       <a href="https://techbeau.co.uk/" target="_blank">
-        <img align="center" src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
+        <img src="TechBeauLogo.png" alt="Visit my portfolio" height="55" width="55"/>
       </a>
     </p>
   </div>
 
   <!-- Right side: Spinning hacker gif -->
   <div align="center" style="flex-shrink: 0;">
-    <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300" align="center">
+    <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300">
   </div>
 </div>
 
@@ -44,55 +44,57 @@
   <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
   
   <!-- Skills Table -->
-  <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
-    <thead>
-      <tr style="background-color: #f8f9fa;">
-        <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Frontend</th>
-        <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Backend</th>
-        <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Hosting & Deployment</th>
-        <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Additional Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="45" height="45" style="margin: 5px;"/>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" style="margin: 5px;"/>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="45" height="45" style="margin: 5px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" style="margin: 5px;"/>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div align="center">
+    <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+      <thead>
+        <tr style="background-color: #f8f9fa;">
+          <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Frontend</th>
+          <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Backend</th>
+          <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Hosting & Deployment</th>
+          <th style="padding: 15px; text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 600; border: 1px solid #dee2e6;">Additional Skills</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
+            <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="45" height="45" style="margin: 5px;"/>
+            </div>
+          </td>
+          <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
+            <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" style="margin: 5px;"/>
+            </div>
+          </td>
+          <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
+            <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="45" height="45" style="margin: 5px;"/>
+            </div>
+          </td>
+          <td style="padding: 20px; text-align: center; vertical-align: top; border: 1px solid #dee2e6;">
+            <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="45" height="45" style="margin: 5px;"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" style="margin: 5px;"/>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
   <!-- Support Section -->
   <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
