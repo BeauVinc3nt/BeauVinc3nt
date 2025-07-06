@@ -9,7 +9,7 @@
 </p>  
 
 <!-- Header Section: Title and Connect Info in Flex Row -->
-<div style="display: flex; align: center; justify-content: space-between; margin-bottom: 40px; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px; gap: 20px;">
   <!-- Left side: Title and Connect Info -->
   <div style="flex: 1;">
     <!-- Beau's expertise title -->
@@ -17,9 +17,9 @@
       <code> Full Stack Software Developer 👩🏻‍💻</code>
     </h3>
 
-  <!-- Connect With Me -->
-  <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600;" align="center">Connect with me:</h3>
-    <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start; margin-bottom: 20px;">
+    <!-- Connect With Me -->
+    <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 600; text-align: center;">Connect with me:</h3>
+    <p style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 20px;">
       <!-- LinkedIn icon + link -->
       <a href="https://www.linkedin.com/in/beau-vincent-6637232a2/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beauvincent" height="55" width="55" align="center"/>
@@ -33,7 +33,7 @@
   </div>
 
   <!-- Right side: Spinning hacker gif -->
-  <div style="flex-shrink: 0;">
+  <div align="center" style="flex-shrink: 0;">
     <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="300" height="300" align="center">
   </div>
 </div>
@@ -41,7 +41,7 @@
 <!-- Main content container -->
 <div style="margin: 20px 0;">
   <!-- Languages and Tools -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;" align="center">Languages and Tools:</h3>
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Languages and Tools:</h3>
   
   <!-- Skills Table -->
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
@@ -95,10 +95,10 @@
   </table>
 
   <!-- Support Section -->
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
-  <p style="margin-bottom: 20px;">
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">Support Beau ☕</h3>
+  <p align="center" style="margin-bottom: 20px;">
     <a href="https://www.buymeacoffee.com/beauvincent"> 
-      <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beauvincent" />
     </a>
   </p>
 
@@ -106,13 +106,13 @@
 <br><br>
 <!-- Separate GitHub Stats Section -->
 <div style="margin: 20px 0;">
-  <h3 align="left" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats 📊</h3>
-  <p align="left">
+  <h3 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: 600;">My GitHub Stats 📊</h3>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BeauVinc3nt&show_icons=true&theme=radical&cache_seconds=1800" alt="BeauVinc3nt's GitHub stats" />  <!-- Cache seconds ensures the values are updated frequently-->
   </p>
 
   <!-- Top Languages -->
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauVinc3nt&layout=compact&theme=radical" alt="Top languages" />
   </p>
 </div>
